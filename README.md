@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on <b>Django,React,Flutter</b>
 - 🌱 I’m currently learning <b>Data Structures</b>
-- 👯 I’m looking to collaborate on <b>, Android</b>
+- 👯 I’m looking to collaborate on <b>Django,React,Flutter</b>
 - 🤔 I’m looking for help with <b>Algorithms</b>
 - 💬 Ask me about <b>Anything</b>
 - 😄 Pronouns: <b>He/him</b>
