@@ -1,6 +1,6 @@
 <p align="center"><img height="30" src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/></p>
 <h1 align="center">Hey 👋, I'm Keshav R Karanth</h1>
-<p align="center">A third year undergrad at Canara Engineering college Mangalore. Actively learning and acquiring on demand skills.</p>
+<p align="center">A Final year undergrad at Canara Engineering college Mangalore. Actively learning and acquiring on demand skills.</p>
 <p align="center">
 <a href="https://twitter.com/karanth_r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/karanth_r" height="30" width="30" /></a>
 <a href="www.linkedin.com/in/keshavrkaranth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/keshavrkaranth" height="30" width="30" /></a>
@@ -17,10 +17,10 @@
 
 ### Few things about me
 
-- 🔭 I’m currently working on <b>Django,React,Flutter</b>
-- 🌱 I’m currently learning <b>Data Structures</b>
-- 👯 I’m looking to collaborate on <b>Django,React,Flutter</b>
-- 🤔 I’m looking for help with <b>Algorithms</b>
+- 🔭 I’m currently working with <b>Django Rest Framework</b>
+- 🌱 I’m currently learning <b>GO</b>
+- 👯 I’m looking to collaborate on <b>Django,React</b>
+- 🤔 I’m looking for help with <b>GO</b>
 - 💬 Ask me about <b>Anything</b>
 - 😄 Pronouns: <b>He/him</b>
 - ⚡ Fun fact: <b>I'm a Programmer</b>
@@ -35,8 +35,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://sjardo.com/wp-content/uploads/2019/03/2000px-Sass_Logo_Color.svg_-1536x1152.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"></code>
 <br>
