@@ -18,9 +18,8 @@
 ### Few things about me
 
 - 🔭 I’m currently working with <b>Django Rest Framework</b>
-- 🌱 I’m currently learning <b>GO</b>
+- 🌱 I’m currently learning <b>Node.js</b>
 - 👯 I’m looking to collaborate on <b>Django,React</b>
-- 🤔 I’m looking for help with <b>GO</b>
 - 💬 Ask me about <b>Anything</b>
 - 😄 Pronouns: <b>He/him</b>
 - ⚡ Fun fact: <b>I'm a Programmer</b>
@@ -48,7 +47,7 @@
 
 <div align="center"><hr width=34%></div>
 
-![Vikram's Github Stats](https://github-readme-stats.vercel.app/api?username=keshavrkaranth&show_icons=true&theme=radical)
+![Keshav's Github Stats](https://github-readme-stats.vercel.app/api?username=keshavrkaranth&show_icons=true&theme=radical)
 
  </div>
  <div align="center"><hr width=53%></div>
